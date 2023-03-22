@@ -1,0 +1,6 @@
+no no no
+<<<<<<< HEAD
+hello
+=======
+hưng bị lag
+>>>>>>> LuuThoaiHung
